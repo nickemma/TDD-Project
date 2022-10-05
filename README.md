@@ -1,10 +1,10 @@
 # Project Name
 
-OOP-SCHOOL-LIBRARY
+TDD- Test Driven Development
 
 # Description the project.
 
-Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. This simple app creates will allow you to: Add new students or teachers. Add new books. Save records of who borrowed a given book and when.
+A TDD project in this project we will implement a class with some methods, but we will do it by doing test-driven development (TDD) and write unit tests using Rspec and developed on Ruby.
 
 ## Built With
 
@@ -14,21 +14,21 @@ Imagine that you are the librarian of OOP University, and you need a tool to rec
 
 ## Getting Started
 
-- Clone this repo <https://github.com/NickEmma/oop-school-library>
+- Clone this repo <https://github.com/NickEmma/TDD-Project>
 
   ```bash
-  git clone https://github.com/NickEmma/oop-school-library
+  git clone https://github.com/NickEmma/TDD-Project
   ```
 
 - Navigate to morse-code folder/directory
 
   ```bash
-  cd oop-school-library
+  cd TDD-Project
   ```
 
 - On the command line, at the project's root, run `bundle install` to install app dependencies
 
-- Next, run `ruby main.rb` which will run the app in the development mode.
+- Next, run `ruby solver.rb` which will run the app in the development mode.
 
 ## Authors
 
@@ -47,7 +47,7 @@ Imagine that you are the librarian of OOP University, and you need a tool to rec
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-thanks: [issue-link](https://github.com/NickEmma/oop-school-library/issues)
+thanks: [issue-link](https://github.com/NickEmma/TDD-Project/issues)
 
 ## Show your support
 
