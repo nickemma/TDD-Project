@@ -1,13 +1,13 @@
 class Solver
   def factorial(num)
     if num.negative?
-     'Please enter positive number or equal to 0!'
+      'Please enter positive number or equal to 0!'
 
     elsif [0, 1].include?(num)
-       1 
+      1
     else
 
-   num * factorial(num - 1) 
+      num * factorial(num - 1)
     end
   end
 
