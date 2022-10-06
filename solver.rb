@@ -3,17 +3,17 @@ class Solver
     if num.negative?
       'Please enter positive number or equal to 0!'
 
-#     elsif [0, 1].include?(num)
-#       1
-#     else
+    elsif [0, 1].include?(num)
+      1
+    else
 
-#       num * factorial(num - 1)
-#     end
-#   end
+      num * factorial(num - 1)
+    end
+  end
 
-#   def reverse(str)
-#     str.reverse
-#   end
+  def reverse(str)
+    str.reverse
+  end
 
 #   def fizz_buzz(num)
 #     if (num % 5).zero? && (num % 3).zero?
