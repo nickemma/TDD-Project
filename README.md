@@ -38,11 +38,13 @@ A TDD project in this project we will implement a class with some methods, but w
 - Twitter: [@techieEmma](https://twitter.com/techieEmma)
 - LinkedIn: [@Nicholas Emmanuel](https://www.linkedin.com/in/techieemma/)
 
-👤 **yayner**
+👤 **Ojesanmi Elizabeth Oyin**
 
-- GitHub: [@yayner2002](https://github.com/yayner2002)
-- Twitter: [@wediagazian](https://twitter.com/wediagazian)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/yaynshet-medhin)
+• GitHub: [@Lizdev-05](https://github.com/Lizdev-05)
+
+• Twitter: [@ojesanmi_oyin](https://twitter.com/ojesanmi_oyin)
+
+• LinkedIn: [Elizabeth Oyinlade Ojesanmi](https://www.linkedin.com/in/elizabeth-oyinlade-ojesanmi-0702aa16a)
 
 ## 🤝 Contributing
 
