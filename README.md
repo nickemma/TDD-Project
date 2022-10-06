@@ -60,7 +60,6 @@ Give a ⭐️ if you like this project!
 - Coding Partners
 - Inspiration
 - etc
-
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
